@@ -1,0 +1,17 @@
+# Dipendenze
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Build e runtime
+frontend/dist/
+frontend/.vite/
+*.db
+*.db-journal
+
+# Varie
+.DS_Store
+*.log
+.env
